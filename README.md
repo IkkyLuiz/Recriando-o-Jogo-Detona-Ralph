@@ -9,8 +9,10 @@ Bem-vindo ao **Detona Ralph**! Neste repositório, você encontrará um jogo div
 ### Tecnologias Utilizadas
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
+- Git para versionamento do código.
 - JavaScript para a lógica de programação e interatividade.
 - Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+- Visual Studio Code como editor de código.
 
 ### Funcionalidades Incríveis
 
